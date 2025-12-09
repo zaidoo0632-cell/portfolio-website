@@ -6,7 +6,7 @@ const translations = {
         'nav-contact': 'Contact', 'lang-toggle': 'FR',
         'hero-name': 'Zaid Ababou', 'hero-title': 'Full Stack Web Developer',
         'hero-subtitle': 'Building reliable web applications with net interfaces and secure back-ends.',
-        'hero-apprenticeship': 'Open to Alternance (Apprenticeship) - Starting September 2025',
+        'hero-apprenticeship': 'Open to Alternance (Apprenticeship) - Starting January 2026',
         'hero-rhythm': 'Rhythm:', 'hero-rhythm-value': '1 week school / 2 weeks company',
         'hero-location': 'Location:', 'hero-location-value': 'Nantes, France',
         'hero-cta': 'Get In Touch', 'hero-cv': 'Download CV',
@@ -36,8 +36,8 @@ const translations = {
         'contact-email-btn': 'Send Email', 'contact-github': 'GitHub Profile', 'contact-cv-btn': 'Download CV',
         'contact-form-title': 'Send Me a Message', 'contact-name-label': 'Name', 'contact-email-label': 'Email',
         'contact-subject-label': 'Subject', 'contact-message-label': 'Message', 'contact-submit': 'Send Message',
-        'footer-copyright': '© 2025 Zaid Ababou. All rights reserved.',
-        'footer-apprenticeship': 'Open to Alternance (Apprenticeship) - Starting September 2025'
+        'footer-copyright': '© 2026 Zaid Ababou. All rights reserved.',
+        'footer-apprenticeship': 'Open to Alternance (Apprenticeship) - Starting January 2026'
     },
     fr: {
         'nav-about': 'À propos', 'nav-skills': 'Compétences', 'nav-projects': 'Projets',
@@ -45,7 +45,7 @@ const translations = {
         'nav-contact': 'Contact', 'lang-toggle': 'EN',
         'hero-name': 'Zaid Ababou', 'hero-title': 'Développeur Web Full Stack',
         'hero-subtitle': 'Construire des applications web fiables avec des interfaces nettes et des backends sécurisés.',
-        'hero-apprenticeship': 'Ouvert à l\'Alternance - À partir de septembre 2025',
+        'hero-apprenticeship': 'Ouvert à l\'Alternance - À partir de janvier 2026',
         'hero-rhythm': 'Rythme:', 'hero-rhythm-value': '1 semaine école / 2 semaines entreprise',
         'hero-location': 'Localisation:', 'hero-location-value': 'Nantes, France',
         'hero-cta': 'Me Contacter', 'hero-cv': 'Télécharger CV',
@@ -75,8 +75,8 @@ const translations = {
         'contact-email-btn': 'Envoyer un E-mail', 'contact-github': 'Profil GitHub', 'contact-cv-btn': 'Télécharger CV',
         'contact-form-title': 'Envoyez-moi un Message', 'contact-name-label': 'Nom', 'contact-email-label': 'E-mail',
         'contact-subject-label': 'Sujet', 'contact-message-label': 'Message', 'contact-submit': 'Envoyer le Message',
-        'footer-copyright': '© 2025 Zaid Ababou. Tous droits réservés.',
-        'footer-apprenticeship': 'Ouvert à l\'Alternance - À partir de septembre 2025'
+        'footer-copyright': '© 2026 Zaid Ababou. Tous droits réservés.',
+        'footer-apprenticeship': 'Ouvert à l\'Alternance - À partir de janvier 2026'
     }
 };
 
